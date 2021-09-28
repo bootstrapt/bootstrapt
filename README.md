@@ -26,3 +26,4 @@ Since most of my work was proprietary, I am using interview problems to showcase
 
 #### Links
 - [LinkedIn](https://www.linkedin.com/in/nickolasturner/)
+- [Resume (Google Doc)](https://docs.google.com/document/d/1vIQqPwceuThmGFGoEonUhvRpuvjSWIUoQ711FMMkJfE/edit?usp=sharing)
