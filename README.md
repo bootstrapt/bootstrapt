@@ -25,4 +25,4 @@ Since most of my work was proprietary, I am using interview problems to showcase
 - [bootstrapt/end_survelliance_angular](https://github.com/bootstrapt/end_survelliance_angular) is an Angular powered site that showed scorecards for Senators and Congresspersons based on their voting record on privacy matters. The backend was a Google Sheet maintained by volunteers. (Note: site is no longer active)
 
 #### Links
-[LinkedIn](https://www.linkedin.com/in/nickolasturner/)
+- [LinkedIn](https://www.linkedin.com/in/nickolasturner/)
