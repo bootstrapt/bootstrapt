@@ -24,4 +24,5 @@ Since most of my work was proprietary, I am using interview problems to showcase
 - [sfrepresentus/sfrepresentus.github.io-source](https://github.com/sfrepresentus/sfrepresentus.github.io-source) is a Vue powered website for the SF chapter of Represent.Us. I did the design, development, and maintenance. View the site [here](https://sfrepresentus.github.io/). (Note: chapter is no longer active)
 - [bootstrapt/end_survelliance_angular](https://github.com/bootstrapt/end_survelliance_angular) is an Angular powered site that showed scorecards for Senators and Congresspersons based on their voting record on privacy matters. The backend was a Google Sheet maintained by volunteers. (Note: site is no longer active)
 
+#### Links
 [LinkedIn](https://www.linkedin.com/in/nickolasturner/)
