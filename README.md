@@ -9,7 +9,7 @@ Startup operator and tech industry professional with extensive experience develo
 Natural systems thinker who loves finding simple solutions to hard problems. Aka a [lazy](https://www.goodreads.com/quotes/568877-i-choose-a-lazy-person-to-do-a-hard-job) [hacker](http://www.catb.org/~esr/faqs/hacker-howto.html#attitude) turned professional [problem solver](https://www.youtube.com/watch?v=NP4lrVIpbvo).
 
 ### Interview Problems
-Showcasing some of my work. I like to think my approach balances the need for rigor with the need for speed. Decisions need to be made thoughfully, but quickly, in order to remain competitive in today's fast paced business environment.
+Showcasing some of my work. I like to think my approach balances the need for rigor with the need for speed. Decisions need to be made thoughtfully, but quickly, in order to remain competitive in today's fast paced business environment.
 
 ##### Clipboard Health
 - Clipboard Health has a [pricing problem](https://creatingvalue.substack.com/p/real-problems-we-tackle-pricing-level) they use to screen candidates. They would like a recommendation for how much they should pay drivers for an Uber like app. In order to solve this problem, I built a model on a spreadsheet to calculate the amount of volume increase needed to offset increases in driver pay. You can see my solution [here](https://docs.google.com/spreadsheets/d/1xt_NnPP7cAO-R5TThhlmlfa7mdHtxImy8thzjMHSwfU/edit?usp=sharing).
