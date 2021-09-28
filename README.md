@@ -18,7 +18,7 @@ Since most of my work was proprietary, I am using interview problems to showcase
 - The next round required a little more research. I used a fairly methodical approach in a Jupyter Notebook. You can see my analysis [here](https://github.com/bootstrapt/clipboard-health-wbd-notebook/blob/main/pricing_wbd.ipynb).
 
 ##### SafeGraph
-- SafeGraph is looking for a Technical Product Manager for their APIs. Rather than simply answer the questions, I went ahead and fired up another Jupyter Notebook and actually implemented API calls using Python and R, using both generic HTTP libraries as well as their official client libraries. You can view that [here](https://bootstrapt.github.io/safegraph-practice-problems/).
+- SafeGraph is looking for a Technical Product Manager for their APIs. Their first written interview consisted of three questions regarding the API. I fired up another Jupyter Notebook and actually implemented API calls using Python and R, using both generic HTTP libraries as well as their official client libraries. You can view that [here](https://bootstrapt.github.io/safegraph-practice-problems/).
 
 #### Other projects
 - [sfrepresentus/sfrepresentus.github.io-source](https://github.com/sfrepresentus/sfrepresentus.github.io-source) is a Vue powered website for the SF chapter of Represent.Us. I did the design, development, and maintenance. View the site [here](https://sfrepresentus.github.io/). (Note: chapter is no longer active)
