@@ -1,9 +1,11 @@
 ## Nick Turner
+
+### Latest
 Currently seeking the next opportunity. I'm a technical PM who can understand and empathize with users of all levels, wrangle data to compare qualitative insight with quantitative analyses, and build those insights into solutions that delight users.
 
 I have been mostly on the platform / backend side of the house, but I'm interested in taking a more user facing product role. Whether I was organizing work as a program manager at HP, building out internal platforms as a product manager at eBay, or directly managing operations for a high growth, venture backed startup at Visor, I always approached what I was building with a product mindset. Identifying friction for internal users using qualitative and quantitive approaches, developing solutions, tracking metrics, fixing bugs, and continuously shipping incremental features.
 
-### About
+### About Me
 Startup operator and tech industry professional with extensive experience developing/running/improving internal solutions, managing engineering processes, and managing operations.
 
 Natural systems thinker who loves finding simple solutions to hard problems. Aka a [lazy](https://www.goodreads.com/quotes/568877-i-choose-a-lazy-person-to-do-a-hard-job) [hacker](http://www.catb.org/~esr/faqs/hacker-howto.html#attitude) turned professional [problem solver](https://www.youtube.com/watch?v=NP4lrVIpbvo).
