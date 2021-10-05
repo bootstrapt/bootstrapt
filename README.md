@@ -23,4 +23,4 @@ Web projects I have worked on while volunteering.
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/nickolasturner/)
-- [Resume (Google Doc)](https://docs.google.com/document/d/1vIQqPwceuThmGFGoEonUhvRpuvjSWIUoQ711FMMkJfE/edit?usp=sharing)
+- [Resume (Google Doc)](https://docs.google.com/document/d/17Oe8Tab9zK4oKPVTXrHdub56eSGYvIIJHS_jAFRehu8/edit?usp=sharing)
