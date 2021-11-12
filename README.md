@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 Currently seeking the next opportunity. Startup operator and tech industry professional with extensive experience developing/running/improving internal solutions, managing engineering processes, and managing operations. I have been effective in both demanding startup enviroments and complex corporate environments.
 
-Natural systems thinker who loves finding simple solutions to hard problems. Aka a [lazy](https://www.goodreads.com/quotes/568877-i-choose-a-lazy-person-to-do-a-hard-job) [hacker](http://www.catb.org/~esr/faqs/hacker-howto.html#attitude) turned professional [problem solver](https://www.youtube.com/watch?v=NP4lrVIpbvo).
+Natural systems thinker who loves finding simple solutions to hard problems. Aka a lazy hacker turned professional problem solver.
 
 ## 📚 Technical Portfolio
 #### Interview Problems
