@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-Currently seeking the next opportunity. Startup operator and tech industry professional with extensive experience developing/running/improving internal solutions, managing engineering processes, and managing operations. I have been effective in both demanding startup enviroments and complex corporate environments.
+Tech industry professional with extensive experience developing/managing/improving internal solutions, managing engineering processes, and managing startup operations (and operators). Proven track record in both demanding startup and complex corporate environments.
 
 Natural systems thinker who loves finding simple solutions to hard problems. Aka a lazy hacker turned professional problem solver.
 
