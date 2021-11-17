@@ -3,7 +3,7 @@ Currently seeking the next opportunity. Startup operator and tech industry profe
 
 Natural systems thinker who loves finding simple solutions to hard problems. Aka a lazy hacker turned professional problem solver.
 
-## 📚 Technical Portfolio
+## 📚 Portfolio
 #### Interview Problems
 Since most of my work was proprietary, I am using interview problems to showcase my skills. My approach balances the need for rigor with the need for speed. Decisions need to be made thoughtfully, but quickly, in order to remain competitive in today's fast paced business environment.
 - [Modelling and Applied Statistics](https://docs.google.com/spreadsheets/d/1xt_NnPP7cAO-R5TThhlmlfa7mdHtxImy8thzjMHSwfU/edit?usp=sharing)
