@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
-People oriented technologist with extensive experience developing/managing/improving internal solutions, managing engineering processes, and managing startup operations (and operators). Proven track record in both demanding startup and complex corporate environments.
+People oriented technologist with extensive experience developing/managing/improving internal solutions, managing engineering processes, and managing startup operations/operators. Proven track record in both demanding startup and complex corporate environments.
 
-Natural systems thinker who loves finding simple solutions to hard problems. Aka a lazy hacker turned professional problem solver.
+I provide vision and connection for high tech, cross-functional teams. Experienced in working with customers, defining use cases, selecting metrics, identifying stakeholders, gathering/synthesizing data, and running processes to support executing at scale. Natural systems thinker who loves finding simple solutions to hard problems. Aka a lazy hacker turned professional problem solver.
 
 ## 📚 Portfolio
 #### Interview Problems
