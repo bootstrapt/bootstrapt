@@ -1,11 +1,11 @@
 ## 👨‍💻 About Me
-Tech industry professional with extensive experience developing/managing/improving internal solutions, managing engineering processes, and managing startup operations (and operators). Proven track record in both demanding startup and complex corporate environments.
+People oriented technologist with extensive experience developing/managing/improving internal solutions, managing engineering processes, and managing startup operations (and operators). Proven track record in both demanding startup and complex corporate environments.
 
 Natural systems thinker who loves finding simple solutions to hard problems. Aka a lazy hacker turned professional problem solver.
 
 ## 📚 Portfolio
 #### Interview Problems
-Since most of my work was proprietary, I am using interview problems to showcase my skills. My approach balances the need for rigor with the need for speed. Decisions need to be made thoughtfully, but quickly, in order to remain competitive in today's fast paced business environment.
+Since most of my work was proprietary, I am using interview problems to showcase my skills. My approach balances the need for rigor with the need for speed. 
 - [Modelling and Applied Statistics](https://docs.google.com/spreadsheets/d/1xt_NnPP7cAO-R5TThhlmlfa7mdHtxImy8thzjMHSwfU/edit?usp=sharing)
 - [Reproducible Data Analysis](https://github.com/bootstrapt/clipboard-health-wbd-notebook/blob/main/pricing_wbd.ipynb)
 - [Collecting Data from APIs](https://bootstrapt.github.io/safegraph-practice-problems/)
