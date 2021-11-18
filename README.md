@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
-People oriented technologist with extensive experience developing/managing/improving internal solutions, managing engineering processes, and managing startup operations/operators. Proven track record in both demanding startup and complex corporate environments.
+User centric technologist with extensive experience developing/managing internal solutions, managing agile development processes, and managing startup operations/operators. Proven track record in both demanding startup and complex corporate environments.
 
-I provide vision and connection for high tech, cross-functional teams. Experienced in working with customers, defining use cases, selecting metrics, identifying stakeholders, gathering/synthesizing data, and running processes to support executing at scale. Natural systems thinker who loves finding simple solutions to hard problems. Aka a lazy hacker turned professional problem solver.
+I bring vision and connection for high performance, cross-functional teams. Experienced in working with customers, defining use cases, identifying stakeholders, selecting metrics, gathering/synthesizing data, and running processes to drive execution for 30 (Snapfish) to 40 (Visor) employees. Natural systems thinker who loves finding simple solutions to hard problems. Aka a lazy hacker turned professional problem solver.
 
 ## 📚 Portfolio
 #### Interview Problems
