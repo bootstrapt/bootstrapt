@@ -5,7 +5,7 @@ Natural systems thinker who loves finding simple solutions to hard problems. Aka
 
 ## 📚 Portfolio
 #### Interview Problems
-Since most of my work was proprietary, I am using interview problems to showcase my skills. My approach balances the need for rigor with the need for speed. 
+Since most of my work was proprietary, I am using interview problems to showcase my skills.
 - [Modelling and Applied Statistics](https://docs.google.com/spreadsheets/d/1xt_NnPP7cAO-R5TThhlmlfa7mdHtxImy8thzjMHSwfU/edit?usp=sharing)
 - [Reproducible Data Analysis](https://github.com/bootstrapt/clipboard-health-wbd-notebook/blob/main/pricing_wbd.ipynb)
 - [Collecting Data from APIs](https://bootstrapt.github.io/safegraph-practice-problems/)
