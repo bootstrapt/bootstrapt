@@ -1,9 +1,11 @@
 ## 👨‍💻 About Me
-User centric technologist with extensive experience developing/managing internal solutions, managing agile development processes, and managing startup operations/operators. Proven track record in both demanding startup and complex corporate environments.
+User centric technologist with extensive experience developing/managing internal solutions, managing agile development processes, and managing startup operations/operators. Proven track record in both demanding startup and complex corporate environments. I bring vision and connection for high performance, cross-functional teams. Experienced in working with customers, defining use cases, identifying stakeholders, selecting metrics, gathering/synthesizing data, and running processes to drive execution. Natural systems thinker who loves finding simple solutions to hard problems. Aka a lazy hacker turned professional problem solver.
 
-I bring vision and connection for high performance, cross-functional teams. Experienced in working with customers, defining use cases, identifying stakeholders, selecting metrics, gathering/synthesizing data, and running processes to drive execution for 30 (Snapfish) to 40 (Visor) employees. Natural systems thinker who loves finding simple solutions to hard problems. Aka a lazy hacker turned professional problem solver.
+## 🏗️ Experience
+- I have program managed platform teams (storage and user assets) and a front end team (web photo library) for Snapfish (owned by HP at the time), by running agile processes, identifying/mitigating risk, managing dependencies, and coordinating cross-functional teams.  
+- I have product manager
 
-## 📚 Portfolio
+## 📌 Portfolio
 #### Interview Problems
 Since most of my work was proprietary, I am using interview problems to showcase my skills.
 - [Modelling and Applied Statistics](https://docs.google.com/spreadsheets/d/1xt_NnPP7cAO-R5TThhlmlfa7mdHtxImy8thzjMHSwfU/edit?usp=sharing)
