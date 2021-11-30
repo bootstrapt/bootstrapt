@@ -27,7 +27,6 @@ $ python nick_test.py
   Time:         4.269s
   
   All tests passed!
-  
 ```
 
 ## 🏗️ Experience
@@ -46,5 +45,5 @@ Program manager for Snapfish platform teams. Ran agile processes, identified/mit
 - [Collecting Data from APIs](https://bootstrapt.github.io/safegraph-practice-problems/)
 
 ##### Other Projects
-- [sfrepresentus/sfrepresentus.github.io-source](https://github.com/sfrepresentus/sfrepresentus.github.io-source) 
-- [bootstrapt/end_survelliance_angular](https://github.com/bootstrapt/end_survelliance_angular)
+- [SF Represent Us Vue website](https://github.com/sfrepresentus/sfrepresentus.github.io-source) 
+- [Restore the Forth End Survelliance Angular component](https://github.com/bootstrapt/end_survelliance_angular)
