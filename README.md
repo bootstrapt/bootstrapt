@@ -20,8 +20,14 @@ $ python nick_test.py
     
   When: ✅ running agile processes  
         ✅ risk management  
- 
-  All tests passed! 
+        
+        
+  Test suites:  5/5
+  Tests:        10/10
+  Time:         4.269s
+  
+  All tests passed!
+  
 ```
 
 ## 🏗️ Experience
