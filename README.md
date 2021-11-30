@@ -5,31 +5,26 @@ User centric technologist with extensive experience developing/managing internal
 $ python nick_test.py
 
   Loading test suites...
-    ✅ technical program 
-    ✅ technical product 
-    ✅ busniess operations 
+    ☑️ technical program 
+    ☑️ technical product 
+    ☑️ busniess operations
     
   Functional tests running...
   
-    Who:
-    ✅ identifying stakeholders  
-    ✅ defining personas 
+   Who: ✅ identifying stakeholders  
+        ✅ defining personas 
     
-    Why: 
-    ✅ gathering requirements 
-    ✅ selecting metrics 
+   Why: ✅ gathering requirements 
+        ✅ selecting metrics 
     
-    What:
-    ✅ defining use cases  
-    ✅ generating reports  
+  What: ✅ defining use cases  
+        ✅ generating reports  
     
-    How:
-    ✅ cross-functional team interfaces
-    ✅ omni-directional management interfaces
+   How: ✅ cross-functional team interfaces
+        ✅ omni-directional management interfaces
     
-    When:
-    ✅ running agile processes  
-    ✅ risk management  
+  When: ✅ running agile processes  
+        ✅ risk management  
  
   All tests passed! 
 ```
