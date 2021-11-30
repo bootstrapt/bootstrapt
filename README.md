@@ -36,13 +36,12 @@ $ python nick_test.py
     ✅ risk management  
  
   All tests passed! 
-
 ```
 
 ## 🏗️ Experience
 _See my [resume](https://docs.google.com/document/d/17Oe8Tab9zK4oKPVTXrHdub56eSGYvIIJHS_jAFRehu8/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/nickolasturner/) for more details._
 ##### Operations
-Startup operator at venture backed, high growth startup. Designed, documented, and implemented processes and tools while running the Atlanta office managing three dozen tax professionals and account managers. Tracked processes using in-house admin portal, Google Sheets, and Google AppSheet. App gRPC and marketing service event data piped through Segment into GCP BigQuery. Identified througput metrics and built reports using Data Studio, Sheets, and App Script. We increased productivity by 3x measured by overall throughput over headcount with our innovative apps, innovative operations, and old fashioned teamwork.
+Startup operator at venture backed, high growth startup. Designed, documented, and implemented processes and tools while running the Atlanta office managing three dozen tax professionals and account managers. Tracked processes using in-house admin portal, Google Sheets, and Google AppSheet. App gRPC and marketing service event data piped through Segment into GCP BigQuery. Identified throughput metrics and built reports using Data Studio, Sheets, and App Script. We increased productivity by 3x measured by overall throughput over headcount with our innovative apps, innovative operations, and old fashioned teamwork.
 ##### Product
 Product manager for eBay's internal innovation platform. Identified stakeholders, defined use cases, and worked with design and engineering to launch a new innovation platform bringing together employee driven prototypes with management sponsorship. Did some development since we were a small team. Built with Angular/Typescript, MongoDB, Kubernetes/Docker, and Openstack.
 ##### Program
