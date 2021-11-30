@@ -8,8 +8,6 @@ $ python nick_test.py
     ✅ technical program 
     ✅ technical product 
     ✅ busniess operations 
-    ✅ people management
-    ✅ influence  
     
   Functional tests running...
   
