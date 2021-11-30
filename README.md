@@ -23,13 +23,11 @@ $ python nick_test.py
     
     What:
     ✅ defining use cases  
-    ✅ defining KPIs
-    ✅ gathering/synthesizing data  
+    ✅ generating reports  
     
     How:
     ✅ cross-functional team interfaces
-    ✅ management interfaces
-    ✅ IC interfaces
+    ✅ omni-directional management interfaces
     
     When:
     ✅ running agile processes  
