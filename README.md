@@ -3,9 +3,9 @@ User centric technologist with extensive experience developing/managing internal
 
 ## 🏗️ Experience
 _See my [resume](https://docs.google.com/document/d/17Oe8Tab9zK4oKPVTXrHdub56eSGYvIIJHS_jAFRehu8/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/nickolasturner/) for more details._
-- Startup operator at venture backed, high growth startup. Designed, documented, and implemented processes and tools while running the Atlanta office. Tracked progress and iterated on processes and tools to manage three dozen tax professionals and account managers.
-- Product manager for internal innovation platform. Identified stakeholders, defined use cases, and worked with design and engineering to launch a new innovation platform bringing together employee driven prototypes with management sponsorship. Did some development as well since we were a small team. Used Angular, Mongo, Kubernetes/Docker, and Openstack (we deployed in two internal environments).
-- Program manager for platform teams (storage and user assets) and a front end team (web photo library), by running agile processes, identifying/mitigating risk, managing dependencies, and coordinating cross-functional teams (product, engineering, and design).
+- Startup operator at venture backed, high growth startup. Designed, documented, and implemented processes and tools while running the Atlanta office managing three dozen tax professionals and account managers. Tracked processes using in-house admin portal and Google Sheets, with app data piped through Segment into GCP BigQuery. Identified througput metrics and built reports using Data Studio, Sheets, and App Script, all in the Google Cloud Platform ecosystem.
+- Product manager for eBay's internal innovation platform. Identified stakeholders, defined use cases, and worked with design and engineering to launch a new innovation platform bringing together employee driven prototypes with management sponsorship. Did some development since we were a small team. Built with Angular/Typescript, MongoDB, Kubernetes/Docker, and Openstack.
+- Program manager for Snapfish platform teams. Ran agile processes, identified/mitigated risk, managed dependencies, and coordinated cross-functional teams (product, engineering, and design). We deployed next generation services to enable a better user experience and mobile apps. Platform teams included Storage (Openstack Swift), User Assets API (MongoDB/Java), and web Photo Library (Ruby/Rails).
 
 ## 📌 Portfolio
 #### Interview Problems
