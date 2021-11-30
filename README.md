@@ -4,7 +4,7 @@ User centric technologist with extensive experience designing/developing/managin
 ```
 $ python nick_test.py
     
-  Functional tests running...
+  Functional skills tests running...
   
    Who: ✅ identifying stakeholders  
         ✅ defining personas 
@@ -20,8 +20,9 @@ $ python nick_test.py
     
   When: ✅ running agile processes  
         ✅ risk management  
-        
-        
+  
+  Testing completed. 
+  
   Test suites:  5/5
   Tests:        10/10
   Time:         4.269s
