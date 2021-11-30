@@ -1,13 +1,8 @@
 ## 👨‍💻 About Me
-User centric technologist with extensive experience developing/managing internal platforms, managing agile processes, and managing startup operations/operators. I bring vision, risk management, and execution for high-performance, cross-functional teams. Proven track record in both demanding startup and complex corporate environments.
+User centric technologist with extensive experience designing/developing/managing internal platforms, managing agile processes, and managing startup operations/operators. I bring vision, risk management, and execution to high-performance, cross-functional teams. Proven track record in both demanding startup and complex corporate environments.
 
 ```
 $ python nick_test.py
-
-  Loading test suites...
-    ☑️ technical program 
-    ☑️ technical product 
-    ☑️ busniess operations
     
   Functional tests running...
   
