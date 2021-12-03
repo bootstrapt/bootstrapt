@@ -6,28 +6,18 @@ $ python nick_test.py
     
   Functional skills tests running...
   
-   Who: ✅ identifying stakeholders  
-        ✅ defining personas 
-    
-   Why: ✅ gathering requirements 
-        ✅ selecting metrics 
-    
-  What: ✅ defining use cases  
-        ✅ generating reports  
-    
-   How: ✅ cross-functional team interfaces
-        ✅ omni-directional management interfaces
-    
-  When: ✅ running agile processes  
-        ✅ risk management  
+  [who ] identifying stakeholders                  ✅ PASS
+  [who ] defining personas                         ✅ PASS
+  [why ] gathering requirements                    ✅ PASS
+  [why ] selecting metrics                         ✅ PASS
+  [what] defining use cases                        ✅ PASS
+  [what] generating reports                        ✅ PASS
+  [how ] cross-functional team interfaces          ✅ PASS
+  [how ] omni-directional management interfaces    ✅ PASS
+  [when] running agile processes                   ✅ PASS
+  [when] risk management                           ✅ PASS
   
-  Testing completed. 
-  
-  Test suites:  5/5
-  Tests:        10/10
-  Time:         4.892s
-  
-  All tests passed!
+  Testing completed. All tests passed!
 ```
 
 ## 🏗️ Experience
