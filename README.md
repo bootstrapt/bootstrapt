@@ -1,32 +1,31 @@
 ## 👨‍💻 About Me
-User centric generalist with extensive experience designing/developing/managing internal platforms, managing agile processes, and managing startup operations/operators. I help high-performance, cross-functional teams by providing vision, risk management, and execution. Proven track record in both demanding startup and complex corporate environments.
+User centric generalist with extensive experience designing/developing/managing internal platforms, managing agile processes, and managing startup operations/operators. I help high-performance, cross-functional teams execute by providing vision, risk management, and execution. Proven track record in both demanding startup and complex corporate environments.
 
 ```
 $ python nick_test.py
     
   Functional skills tests running...
   
-  skill                                  | area | status
-  =======================================================
-  identifying stakeholders               | who  |  PASS
-  defining personas                      | who  |  PASS
-  gathering requirements                 | why  |  PASS
-  selecting metrics                      | why  |  PASS
-  defining use cases                     | what |  PASS
-  generating reports                     | what |  PASS
-  cross-functional team interfaces       | how  |  PASS
-  omni-directional management interfaces | how  |  PASS
-  running agile processes                | when |  PASS
-  risk management                        | when |  PASS
+  [suite] skill                                   | status
+  ========================================================
+  [who]   identifying stakeholders                |  PASS
+  [who]   defining personas                       |  PASS
+  [why]   gathering requirements                  |  PASS
+  [why]   selecting metrics                       |  PASS
+  [what]  defining use cases                      |  PASS
+  [what]  generating reports                      |  PASS
+  [how]   cross-functional team interfaces        |  PASS
+  [how]   omni-directional management interfaces  |  PASS
+  [when]  running agile processes                 |  PASS
+  [when]  risk management                         |  PASS
 
-  
   Testing completed. All tests passed!
 ```
 
 ## 🏗️ Experience
 _See my [resume](https://docs.google.com/document/d/17Oe8Tab9zK4oKPVTXrHdub56eSGYvIIJHS_jAFRehu8/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/nickolasturner/) for more details._
 ##### Operations
-Startup operator at venture backed, high growth startup. Designed, documented, and implemented processes and tools while running the Atlanta office. Managed three dozen tax professionals and account managers. Implemented new processes to match our new apps. Our stack was a Go backend, native mobile apps, and a React webapp/admin portal communicating with gRPC built on Google Cloud Platform. Internal processes not supported by the app were tracked in Google Sheets or an AppSheets. I identified throughput metrics and built reports using BigQuery, Data Studio, Sheets, and AppScript. We increased productivity by 3x measured by overall throughput over headcount with our innovative apps, innovative operations, and old fashioned teamwork.
+Startup operator at venture backed, high growth startup. Designed, documented, and implemented processes and tools while running the Atlanta office. Managed three dozen tax professionals and account managers. Implemented new processes to match an innovation operating model enabled by bleeding edge apps. Our stack was a Go backend, native mobile apps, and a React webapp/admin portal communicating with gRPC built on Google Cloud Platform. Internal processes not supported by the app were tracked in Google Sheets or an AppSheets. I identified throughput metrics and built reports using BigQuery, Data Studio, Sheets, and AppScript. We increased productivity by 3x measured by overall throughput over headcount with our innovative apps, innovative operations, and old fashioned teamwork.
 ##### Product
 Product manager for eBay's internal innovation platform. Identified stakeholders, defined use cases, and worked with design/engineering to launch a new innovation marketplace bringing together employee driven prototypes with management sponsorship. Portal built with Angular/Typescript, MongoDB, Kubernetes/Docker, and Openstack. Launched eBay's first innovation studio with access to VR, 3d printer, various SOCs, and other hardware. Managed JIRA and portal for open source working group. The marketplace generated a 36% increase in ideas submitted, a 54% increase in the number of participants company-wide, and a 6x increase in the number of projects sponsored by upper management.
 ##### Program
