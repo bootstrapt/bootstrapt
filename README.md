@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-User centric generalist with extensive experience designing/developing/managing internal platforms, managing agile processes, and managing startup operations/operators. I help high-performance, cross-functional teams execute by providing vision, risk management, and execution. Proven track record in both demanding startup and complex corporate environments.
+I am a user-centric generalist with extensive experience in designing, developing, and managing internal tools and platforms, overseeing agile processes, and leading startup operations. I excel in helping high-performance, cross-functional teams achieve their goals by providing clear vision, effective risk management, and strong execution. I have a proven track record in both demanding startup environments and complex corporate settings.
 
 ```
 $ python nick_test.py
