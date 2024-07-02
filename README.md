@@ -24,7 +24,7 @@ nick_test.py::when::test_risk_management PASSED                                 
 _See my [resume](https://docs.google.com/document/d/17Oe8Tab9zK4oKPVTXrHdub56eSGYvIIJHS_jAFRehu8/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/nickolasturner/) for more details._
 My journey into software development has been an exciting blend of hands-on experience, continual learning, and strategic decision-making, shaped by both successes and challenges.
 
-From an early age, I was fascinated by how technology could solve complex problems. This passion led me to pursue a Bachelor of Science in Business Administration with a concentration in Entrepreneurship & Small Business Management from San Francisco State University. My career began at the intersection of business and technology, where I quickly learned the importance of agile development and team leadership.
+From an early age, I was fascinated by how technology could solve complex problems. This passion led me to pursue a Bachelor of Science in Business Administration with a concentration in Entrepreneurship & Small Business Management from SFSU. My career began at the intersection of business and technology, where I quickly learned the importance of agile development and team leadership.
 
 ###Early Career and Growth
 Starting at Plug and Play Tech Center, I secured the job by assertively following up with the CEO after a luncheon. This persistence marked the beginning of my professional journey, where I managed events and implemented marketing tools that significantly increased our social media following and lead generation. This role solidified my understanding of the business impacts of technical decisions.
