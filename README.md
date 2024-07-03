@@ -1,4 +1,6 @@
 ## 👨‍💻 About Me
+Currently building an LLM Retrieval Augmented Generation system that ingests discord chats and answers student questions by loading relevant information at runtime using vector search. Also currently serving as a judge for the Black Ambition Prize semi-finals [](https://blackambitionprize.com)
+
 I am a user-centric generalist with extensive experience in developing and managing internal tools and platforms, overseeing agile processes, and leading startup operations. I excel in helping high-performance, cross-functional teams achieve their goals by providing clear vision, effective risk management, and strong execution. I have a proven track record in both demanding venture capital backed startup environments and complex corporate settings.
 
 ## 📌 Portfolio
