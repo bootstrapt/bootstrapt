@@ -20,6 +20,21 @@ nick_test.py::when      risk_management PASSED                                  
 ================================== 9 passed in 0.XXs ==================================
 ```
 
+## 📌 Portfolio
+##### Artificial Intelligence Retrival Augmented Generation
+- [LLM Retrieval Augmented Generation](https://github.com/bootstrapt/portfolio/blob/main/RAGAI.md)
+
+
+##### Interview Problems
+- [Modelling and Applied Statistics](https://docs.google.com/spreadsheets/d/1xt_NnPP7cAO-R5TThhlmlfa7mdHtxImy8thzjMHSwfU/edit?usp=sharing)
+- [Reproducible Data Analysis](https://github.com/bootstrapt/clipboard-health-wbd-notebook/blob/main/pricing_wbd.ipynb)
+- [Collecting Data from APIs](https://bootstrapt.github.io/safegraph-practice-problems/)
+
+##### Other Projects
+- [SF Represent Us Vue website](https://github.com/sfrepresentus/sfrepresentus.github.io-source) 
+- [Restore the Forth End Survelliance Angular component](https://github.com/bootstrapt/end_survelliance_angular)
+
+
 ## 🏗️ Experience
 _See my [resume](https://docs.google.com/document/d/17Oe8Tab9zK4oKPVTXrHdub56eSGYvIIJHS_jAFRehu8/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/nickolasturner/) for more details._
 My journey into software development has been an exciting blend of hands-on experience, continual learning, and strategic decision-making, shaped by both successes and challenges.
@@ -42,16 +57,4 @@ Leading engineering at Neon Money Club, I launched backend services for a fintec
 ### Looking Ahead
 As I continue to navigate the ever-evolving landscape of technology, I remain committed to leveraging my diverse experiences to drive innovation and deliver value. Whether leading a team, architecting complex systems, or exploring new technologies, my goal is to create solutions that are not only effective but also transformative.
 
-## 📌 Portfolio
-##### Artificial Intelligence Retrival Augmented Generation
-- [LLM Retrieval Augmented Generation](https://github.com/bootstrapt/portfolio/blob/main/RAGAI.md)
 
-
-##### Interview Problems
-- [Modelling and Applied Statistics](https://docs.google.com/spreadsheets/d/1xt_NnPP7cAO-R5TThhlmlfa7mdHtxImy8thzjMHSwfU/edit?usp=sharing)
-- [Reproducible Data Analysis](https://github.com/bootstrapt/clipboard-health-wbd-notebook/blob/main/pricing_wbd.ipynb)
-- [Collecting Data from APIs](https://bootstrapt.github.io/safegraph-practice-problems/)
-
-##### Other Projects
-- [SF Represent Us Vue website](https://github.com/sfrepresentus/sfrepresentus.github.io-source) 
-- [Restore the Forth End Survelliance Angular component](https://github.com/bootstrapt/end_survelliance_angular)
