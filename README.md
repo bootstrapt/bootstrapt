@@ -44,7 +44,7 @@ As I continue to navigate the ever-evolving landscape of technology, I remain co
 
 ## 📌 Portfolio
 ##### Artificial Intelligence Retrival Augmented Generation
-Coming soon!
+- [LLM Retrieval Augmented Generation](https://github.com/bootstrapt/portfolio/blob/main/RAGAI.md)
 
 
 ##### Interview Problems
