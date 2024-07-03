@@ -1,6 +1,19 @@
 ## 👨‍💻 About Me
 I am a user-centric generalist with extensive experience in developing and managing internal tools and platforms, overseeing agile processes, and leading startup operations. I excel in helping high-performance, cross-functional teams achieve their goals by providing clear vision, effective risk management, and strong execution. I have a proven track record in both demanding venture capital backed startup environments and complex corporate settings.
 
+## 📌 Portfolio
+##### Artificial Intelligence Retrival Augmented Generation
+- [LLM Retrieval Augmented Generation](https://github.com/bootstrapt/portfolio/blob/main/RAGAI.md)
+
+##### Interview Problems
+- [Modelling and Applied Statistics](https://docs.google.com/spreadsheets/d/1xt_NnPP7cAO-R5TThhlmlfa7mdHtxImy8thzjMHSwfU/edit?usp=sharing)
+- [Reproducible Data Analysis](https://github.com/bootstrapt/clipboard-health-wbd-notebook/blob/main/pricing_wbd.ipynb)
+- [Collecting Data from APIs](https://bootstrapt.github.io/safegraph-practice-problems/)
+
+##### Other Projects
+- [SF Represent Us Vue website](https://github.com/sfrepresentus/sfrepresentus.github.io-source) 
+- [Restore the Forth End Survelliance Angular component](https://github.com/bootstrapt/end_survelliance_angular)
+
 ```
 $ python nick_test.py
 
@@ -19,21 +32,6 @@ nick_test.py::when      risk_management PASSED                                  
 
 ================================== 9 passed in 0.XXs ==================================
 ```
-
-## 📌 Portfolio
-##### Artificial Intelligence Retrival Augmented Generation
-- [LLM Retrieval Augmented Generation](https://github.com/bootstrapt/portfolio/blob/main/RAGAI.md)
-
-
-##### Interview Problems
-- [Modelling and Applied Statistics](https://docs.google.com/spreadsheets/d/1xt_NnPP7cAO-R5TThhlmlfa7mdHtxImy8thzjMHSwfU/edit?usp=sharing)
-- [Reproducible Data Analysis](https://github.com/bootstrapt/clipboard-health-wbd-notebook/blob/main/pricing_wbd.ipynb)
-- [Collecting Data from APIs](https://bootstrapt.github.io/safegraph-practice-problems/)
-
-##### Other Projects
-- [SF Represent Us Vue website](https://github.com/sfrepresentus/sfrepresentus.github.io-source) 
-- [Restore the Forth End Survelliance Angular component](https://github.com/bootstrapt/end_survelliance_angular)
-
 
 ## 🏗️ Experience
 _See my [resume](https://docs.google.com/document/d/17Oe8Tab9zK4oKPVTXrHdub56eSGYvIIJHS_jAFRehu8/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/nickolasturner/) for more details._
