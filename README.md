@@ -15,15 +15,15 @@ $ python nick_test.py
 ================================== test session starts ================================
 collected 9 items
 
-nick_test.py::who       identifying_stakeholders PASSED                          [ 11%]
-nick_test.py::why       gathering_requirements PASSED                            [ 22%]
-nick_test.py::why       selecting_metrics PASSED                                 [ 33%]
-nick_test.py::what      defining_use_cases PASSED                                [ 44%]
-nick_test.py::what      generating_reports PASSED                                [ 56%]
-nick_test.py::how       cross_functional_team_interfaces PASSED                  [ 67%]
+nick_test.py::who       identifying_stakeholders               PASSED            [ 11%]
+nick_test.py::why       gathering_requirements                 PASSED            [ 22%]
+nick_test.py::why       selecting_metrics                      PASSED            [ 33%]
+nick_test.py::what      defining_use_cases                     PASSED            [ 44%]
+nick_test.py::what      generating_reports                     PASSED            [ 56%]
+nick_test.py::how       cross_functional_team_interfaces       PASSED            [ 67%]
 nick_test.py::how       omni_directional_management_interfaces PASSED            [ 78%]
-nick_test.py::when      running_agile_processes PASSED                           [ 89%]
-nick_test.py::when      risk_management PASSED                                   [100%]
+nick_test.py::when      running_agile_processes                PASSED            [ 89%]
+nick_test.py::when      risk_management                        PASSED            [100%]
 
 ================================== 9 passed in 0.XXs ==================================
 ```
