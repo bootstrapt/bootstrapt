@@ -1,7 +1,13 @@
 ## 👨‍💻 About Me
-Currently building an LLM Retrieval Augmented Generation system that ingests discord chats and answers student questions by loading relevant information at runtime using vector search. Also currently serving as a judge for the Black Ambition Prize semi-finals [](https://blackambitionprize.com)
+Hi there! I'm an experienced people manager and full stack principal developer with proven effectiveness in both fast paced, venture backed startups and large scale, complex corporate environments.
 
-I am a user-centric generalist with extensive experience in developing and managing internal tools and platforms, overseeing agile processes, and leading startup operations. I excel in helping high-performance, cross-functional teams achieve their goals by providing clear vision, effective risk management, and strong execution. I have a proven track record in both demanding venture capital backed startup environments and complex corporate settings.
+I took a non-traditional route starting with hustling my way into the Plug and Play Tech Center startup incubator; going from scrum master to program manager of storage, assets, and web library for Snapfish; growing eBay's internal innovation program while building out the portal and acting as sysadmin for our sister teams; and finally leading operations for a series B level fintech company and engineering for a seed level fintech company. 
+
+To keep my skills up to date, I'm currently building an LLM Retrieval Augmented Generation system that ingests discord chats and answers student questions by loading relevant information at runtime using vector search. See my GitHub. 
+
+Also currently serving as a judge for the Black Ambition Prize semi-finals.
+
+In my free time I enjoy Brazilian Jiu Jitsu, biking the strand, reading, league pool, and watching my niece.
 
 ## 📌 Portfolio
 ##### Artificial Intelligence Retrival Augmented Generation
