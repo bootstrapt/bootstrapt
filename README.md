@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 Hi there! I'm an experienced people manager and full stack principal developer with proven effectiveness in both fast paced, venture backed startups and large scale, complex corporate environments.
 
-I took a non-traditional route starting with hustling my way into the Plug and Play Tech Center startup incubator; going from scrum master to program manager of storage, assets, and web library for Snapfish; growing eBay's internal innovation program while building out the portal and acting as sysadmin for our sister teams; and finally leading operations for a series B level fintech company and engineering for a seed level fintech company. 
+I took a non-traditional route starting with hustling my way into the Plug and Play Tech Center startup incubator; going from scrum master of a single team to program manager of the storage, assets, and web library teams located in the US and India for Snapfish; growing eBay's internal innovation program while building out the portal and acting as sysadmin for our sister teams; and finally leading operations for a series B level fintech company and leading engineering for a seed level fintech company where I got them production ready.
 
 To keep my skills up to date, I'm currently building an LLM Retrieval Augmented Generation system that ingests discord chats and answers student questions by loading relevant information at runtime using vector search. See my GitHub. 
 
