@@ -1,13 +1,11 @@
 ## 👨‍💻 About Me
 Hi there! I'm a passionate people manager, full stack principal developer, and technology leader with proven effectiveness in both fast paced, venture backed startups and large scale, complex corporate environments. I have hired, fired, mentored, and led international teams while developing processes and software solutions to meet business needs.
 
-I took a non-traditional route starting with hustling my way into the Plug and Play Tech Center startup incubator where I got my "startup MBA"; at Snapfish I went from scrum master of a single team to platform program manager of the storage, assets, and photo library teams (in US and India) where we launched the service based Snapfish 2.0; at eBay I grew their internal innovation program while developing and launching a next generation portal and managing DevOps for our sister teams; at Grid I led operations for a series B level fintech company where I managed our Atlanta office; and at Neon Money Club I led engineering for a seed level fintech company where I implemented DevOps and engineering processes to get them production ready, launched, and through their first 1.5k users.
-
 Since I am innately curious and intrinsically driven, I'm currently building an LLM Retrieval Augmented Generation system that ingests discord chats and answers student questions by loading relevant information at runtime using vector search. See my GitHub.
 
 Also currently serving as a judge for the Black Ambition Prize semi-finals.
 
-In my free time I enjoy Brazilian Jiu Jitsu, biking the strand, reading, playing league pool, and watching my niece.
+In my free time I enjoy Brazilian Jiu Jitsu, biking the strand, reading, playing pool, and watching my niece.
 
 ```
 $ python nick_test.py
@@ -41,11 +39,14 @@ nick_test.py::when      risk_management                            PASSED       
 - [SF Represent Us Vue website](https://github.com/sfrepresentus/sfrepresentus.github.io-source) 
 - [Restore the Forth End Survelliance Angular component](https://github.com/bootstrapt/end_survelliance_angular)
 
+## 🧳 My Journey
+I took a non-traditional route starting with hustling my way into the Plug and Play Tech Center startup incubator where I got my "startup MBA"; at Snapfish I went from scrum master of a single team to platform program manager of the storage, assets, and photo library teams (in US and India) where we launched the service based Snapfish 2.0; at eBay I grew their internal innovation program while developing and launching a next generation portal and managing DevOps for our sister teams; at Grid I led operations for a series B level fintech company where I managed our Atlanta office; and at Neon Money Club I led engineering for a seed level fintech company where I implemented DevOps and engineering processes to get them production ready, launched, and through their first 1.5k users.
+
 ## 🏗️ Experience
 _See my [resume](https://docs.google.com/document/d/17Oe8Tab9zK4oKPVTXrHdub56eSGYvIIJHS_jAFRehu8/edit?usp=sharing) and [LinkedIn](https://www.linkedin.com/in/nickolasturner/) for more details._
 My journey into software development has been an exciting blend of hands-on experience, continual learning, and strategic decision-making, shaped by both successes and challenges.
 
-From an early age, I was fascinated by how technology could solve complex problems. This passion led me to pursue a Bachelor of Science in Business Administration with a concentration in Entrepreneurship & Small Business Management from SFSU. My career began at the intersection of business and technology, where I quickly learned the importance of agile development and team leadership.
+From an early age, I was fascinated by how technology could solve complex problems. This passion led me to pursue a Bachelor of Science in Business Administration with a concentration in Entrepreneurship & Small Business Management from SFSU. My career began at the intersection of business and technology, where I quickly learned the importance of staying agile, iterating, and continuous improvement.
 
 ### Early Career and Growth
 Starting at Plug and Play Tech Center, I secured the job by assertively following up with the CEO and spending almost a full buisness day waiting for a meeting. This persistence marked the beginning of my professional journey, where I managed events and implemented marketing tools that significantly increased our social media following and lead generation. This role solidified my understanding of the business impacts of technical decisions.
